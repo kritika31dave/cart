@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/cart/static/css/main.58a04cd7.css",
+    "main.js": "/cart/static/js/main.ed133c98.js",
+    "static/media/exclusive.png": "/cart/static/media/exclusive.e8ef136bb97e22d6f3f6.png",
+    "static/media/beyon.png": "/cart/static/media/beyon.6900b0917433f916a329.png",
+    "static/media/big.png": "/cart/static/media/big.de99277c4fde9ed29440.png",
+    "static/media/padd7.jpg": "/cart/static/media/padd7.6e9a975660b34faf3e7a.jpg",
+    "static/media/padd8.jpg": "/cart/static/media/padd8.963f26912871cd5f8f35.jpg",
+    "static/media/padd10.jpg": "/cart/static/media/padd10.da0c40fc6ed16b49c4f0.jpg",
+    "static/media/padd2.jpg": "/cart/static/media/padd2.e2a1c8c1a1f33e8657de.jpg",
+    "static/media/padd3.jpg": "/cart/static/media/padd3.94970a8ecaf80c55fc32.jpg",
+    "static/media/padd17.jpg": "/cart/static/media/padd17.72b531bca048e36028fd.jpg",
+    "static/media/padd6.jpg": "/cart/static/media/padd6.6f2e609a56ec4eb8db24.jpg",
+    "static/media/padd13.jpg": "/cart/static/media/padd13.a7324d40f552221e5260.jpg",
+    "static/media/padd11.jpg": "/cart/static/media/padd11.796ae049d4064050d8b8.jpg",
+    "static/media/padd12.jpg": "/cart/static/media/padd12.e0adddd317dfaa6f642f.jpg",
+    "static/media/padd16.jpg": "/cart/static/media/padd16.ed64db1c6fcf593faf7c.jpg",
+    "static/media/padd.jpg": "/cart/static/media/padd.f559daba94c3cf699263.jpg",
+    "static/media/padd15.jpg": "/cart/static/media/padd15.75fbaf7a1f749a015ce0.jpg",
+    "static/media/padd14.jpg": "/cart/static/media/padd14.23ceda685572271156af.jpg",
+    "static/media/brush.jpg": "/cart/static/media/brush.eb974349a3c2d999f8e7.jpg",
+    "static/media/padd5.jpg": "/cart/static/media/padd5.7ffb8e4040d1f6637219.jpg",
+    "static/media/sent5.jpeg": "/cart/static/media/sent5.13e250f330c2fe7baf40.jpeg",
+    "static/media/nose.jpg": "/cart/static/media/nose.821249dbf87933a83eb9.jpg",
+    "static/media/padd9.jpg": "/cart/static/media/padd9.f786f5ee2e14a9b76fac.jpg",
+    "static/media/sent2.jpg": "/cart/static/media/sent2.7e55ebe0f36f14d465d1.jpg",
+    "static/media/hoodies.jpg": "/cart/static/media/hoodies.3c7d2d05e8160b79ff16.jpg",
+    "static/media/padd4.jpg": "/cart/static/media/padd4.51418ebfe0b9d0a9d05a.jpg",
+    "static/media/sent4.jpg": "/cart/static/media/sent4.beded9535d1d34770b3d.jpg",
+    "static/media/sent6.jpg": "/cart/static/media/sent6.beded9535d1d34770b3d.jpg",
+    "index.html": "/cart/index.html",
+    "main.58a04cd7.css.map": "/cart/static/css/main.58a04cd7.css.map",
+    "main.ed133c98.js.map": "/cart/static/js/main.ed133c98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a04cd7.css",
+    "static/js/main.ed133c98.js"
+  ]
+}
