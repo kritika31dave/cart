@@ -1,0 +1,146 @@
+h1{
+    position: relative;
+    top:100px;
+    text-align: center;
+}
+.div{
+    position: relative;
+    top:300px;
+    left:200px;
+    display: grid;
+    grid-template-columns: 230px 230px 230px 230px;
+    grid-template-rows:190px 190px 190px;
+    align-self: center;
+    grid-gap:300px 100px;
+}
+.divsec{
+    position: relative;
+    top:900px;
+    left:200px;
+    display: grid;
+    grid-template-columns: 230px 230px 230px 230px;
+    grid-template-rows:190px 190px 190px;
+    align-self: center;
+    grid-gap:300px 100px;
+}
+.divsec2{
+    position: relative;
+    top:1500px;
+    left:200px;
+    display: grid;
+    grid-template-columns: 230px 230px 230px 230px;
+    grid-template-rows:190px 190px 190px;
+    align-self: center;
+    grid-gap:300px 100px;
+}
+.divsecThird{
+    position: relative;
+    top:2000px;
+    left:200px;
+    display: grid;
+    grid-template-columns: 230px 230px 230px 230px;
+    grid-template-rows:190px 190px 190px;
+    align-self: center;
+    grid-gap:300px 100px;
+}
+.divsecFourth{
+    position: relative;
+    top:2500px;
+    left:200px;
+    display: grid;
+    grid-template-columns: 230px 230px 230px 230px;
+    grid-template-rows:190px 190px 190px;
+    align-self: center;
+    grid-gap:300px 100px;
+}
+
+.itemPro{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.buttPro{
+    width:400px;
+    height: 400px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+.itemDesc:hover{
+    width:300px;
+    background-color: white;
+    position: relative;
+    top:-50px;
+}
+.option{
+    display: flex;
+    flex-direction: row;
+}
+.option:hover{
+    display: flex;
+    flex-direction: row;
+    gap:30px;
+}
+.option button{
+    background-color: white;
+    border:none;
+    cursor: pointer;
+    font-weight: bold;
+}
+@media screen and (max-width: 712px){
+    h1{
+        position: relative;
+        top:100px; 
+    }
+    .div{
+        position: relative;
+        top:300px;
+        left:60px;
+        display: grid;
+        grid-template-columns: 230px 230px ;
+        grid-template-rows:190px 190px 190px 190px 190px 190px;
+        align-self: center;
+        grid-gap:300px 100px;
+    }
+    .divsec{
+        position: relative;
+        
+        left:60px;
+        display: grid;
+        grid-template-columns: 230px 230px ;
+        grid-template-rows:190px 190px 190px 190px 190px 190px;
+        align-self: center;
+        grid-gap:300px 100px;
+    }
+    .divsec2{
+        position: relative;
+        
+        left:60px;
+        display: grid;
+        grid-template-columns: 230px 230px ;
+        grid-template-rows:190px 190px 190px 190px 190px 190px;
+        align-self: center;
+        grid-gap:300px 100px;
+    }
+    .divsecThird{
+        position: relative;
+        
+        left:60px;
+        display: grid;
+        grid-template-columns: 230px 230px ;
+        grid-template-rows:190px 190px 190px 190px 190px 190px;
+        align-self: center;
+        grid-gap:300px 100px;
+    }
+    .divsecFourth{
+        position: relative;
+        left:60px;
+        display: grid;
+        grid-template-columns: 230px 230px ;
+        grid-template-rows:190px 190px 190px 190px 190px 190px;
+        align-self: center;
+        grid-gap:300px 100px;
+    }
+}
+

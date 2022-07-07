@@ -1,0 +1,59 @@
+.nav{
+    display:flex;
+    flex-direction: row;
+    gap:150px;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.home{
+    
+}
+ ul{
+    display:flex;
+    flex-direction: row;  
+    gap:100px;
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+.link{
+    color: black;
+    text-decoration: none;
+}
+.icon{
+    font-size: 30px;
+    
+}
+.iconSec{
+    font-size: 30px;
+}
+.butt{
+    background-color: black;
+    width:30px;
+    height: 20px;
+    color:white;
+    border:1px solid black;
+    border-radius: 25px;
+}
+.buttOne{
+    background-color: black;
+    width:30px;
+    height: 20px;
+    color:white;
+    border:1px solid black;
+    border-radius: 25px;
+}
+@media screen and (max-width:712px) {
+    .home{
+        display: none;
+    }
+    .icon{
+        display: none;
+    }
+    .buttOne{
+        display: none;
+    }
+    .sign{
+        display: none;
+    }
+}
